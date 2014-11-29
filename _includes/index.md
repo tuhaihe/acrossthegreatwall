@@ -71,7 +71,7 @@ VPN类型: PPTP
 密码: free51fq
 ~~~
 
-+ 微信号pennyjob：大家可以订阅该微信号，然后发送“翻墙”，就会收到SSH、VPN、Shadowsocks等代理帐号
++ 微信号pennyjob：大家可以订阅该微信号，然后发送“翻墙”，就会收到SSH、VPN、Shadowsocks等代理帐号。
 
 [51FQ]: http://51fq.info/?page_id=5
 [3]: https://sourceforge.net/projects/shadowsocksgui/
