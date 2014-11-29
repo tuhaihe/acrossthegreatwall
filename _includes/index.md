@@ -95,14 +95,13 @@ VPN类型: PPTP
 2. 帮助我们
 
 	+ 服务器推广。我们的服务器位于[DigitalOcean][1]，通过该推荐的链接购买，您可以获得10美元奖金，我们也将得到奖励。
-	+ 捐赠。可以捐赠到支付宝帐号 
-1132321739qq#gmail.com（用@代替#），每一分捐赠将用于抵消服务器费用，也都将公示（留言中请注明您愿意公示的姓名或昵称）。
+	+ 捐赠。可以捐赠到支付宝帐号 1132321739qq#gmail.com（用@代替#），每一分捐赠将用于抵消服务器费用，也都将公示（留言中请注明您愿意公示的姓名或昵称）。
 	+ 主机资源。如果您有闲置的海外主机资源，愿意提供公共代理帐号，请加入我们的邮件列表，发送即可，我们会将期更新到本页面。
 
-<iframe 
-src="http://ghbtns.com/github-btn.html?user=tuhaihe&amp;repo=acrossthegreatwall&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
-  
-[1]: https://www.digitalocean.com/?refcode=14d8e6d96950  
+------
 
+Follow us on [GitHub][7].
+
+[1]: https://www.digitalocean.com/?refcode=14d8e6d96950  
+[7]: https://github.com/tuhaihe/acrossthegreatwall
 
