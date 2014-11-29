@@ -1,0 +1,2 @@
+name: Across the Great Wall | 越过长城，走向世界 | 免费网络代理
+exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
