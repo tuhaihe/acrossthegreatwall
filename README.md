@@ -27,4 +27,12 @@ acrossthegreatwall+subscribe@googlegroups.com，主题与内容皆填写 subscri
 
 + [X] 使用教程完善（包括Windows、Mac和Linux、Android、iOS平台，方式包括SSH、VPN、Shadowsocks）
 + [X] 站外免费代理资源收集
-+ [X] Acrossthegreatwall站点资源前端设计（有该技术的且愿意参与的朋友，欢迎~目前本站点就是拿一个CC协议的HTML5单页模板修改的）
++ [X] Acrossthegreatwall站点资源前端设计
++ [] 更多海外主机资源征集
+
+## 协议
+
+本站点基于Jekyll主题[Solo][2]修改而来，并以[MIT协议][3]分发。
+
+[2]: https://github.com/chibicode/solo
+[3]: http://chibicode.mit-license.org/

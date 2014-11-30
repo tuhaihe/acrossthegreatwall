@@ -62,7 +62,7 @@ _免费网络代理公益小组_
 
 *提示：限于iOS的安全策略，iOS用户使用Shadowsocks时，需要时隔几分钟就切换到Shadowsocks一次，才能不断激活代理服务。*
 
-## 站外资源推荐
+## 站外资源推荐(Update：2014.11.30)
 
 + [51FQ][51FQ]：提供免费VPN服务，最新帐号情况请访问该站点获取。
 
@@ -75,11 +75,14 @@ VPN类型: PPTP
 
 + 微信号pennyjob：大家可以订阅该微信号，然后发送“翻墙”，就会收到SSH、VPN、Shadowsocks等代理帐号。
 
++ [玩转SSH][8]：免费提供美国SSH帐号、Shadowsocks帐号，并提供交流QQ群。
+
 [51FQ]: http://51fq.info/?page_id=5
 [3]: https://sourceforge.net/projects/shadowsocksgui/
 [4]: https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-帮助
 [5]: http://shadowsocks.org/en/download/clients.html
 [6]: https://github.com/shadowsocks/shadowsocks-gui
+[8]: http://playssh.com
 
 ## 小组愿景
 
