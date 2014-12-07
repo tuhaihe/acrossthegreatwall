@@ -56,8 +56,7 @@ _免费网络代理公益小组_
 
 或使用Shadowsocks应用扫描下面二维码，快速添加代理帐号信息：
 
-![Shadowsocks](./images/S-1.png)
-
+![Shadowsocks](./images/S1.png)
 
 【公共帐号2】
 ~~~
@@ -70,7 +69,7 @@ _免费网络代理公益小组_
 
 或使用Shadowsocks应用扫描下面二维码，快速添加代理帐号信息：
 
-![Shadowsocks](./images/S-2.png)
+![Shadowsocks](./images/S2.png)
 
 客户端下载：
 + 下载地址1：[Shadowsocks官网][5]，包括Windows、Mac OS X、Linux、Android和iOS、OpenWRT客户端。
