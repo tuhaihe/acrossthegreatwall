@@ -28,7 +28,7 @@ acrossthegreatwall+subscribe@googlegroups.com，主题与内容皆填写 subscri
 + [X] 使用教程完善（包括Windows、Mac和Linux、Android、iOS平台，方式包括SSH、VPN、Shadowsocks）
 + [X] 站外免费代理资源收集
 + [X] Acrossthegreatwall站点资源前端设计
-+ [] 更多海外主机资源征集
++ [ ] 更多海外主机资源征集
 
 ## 协议
 

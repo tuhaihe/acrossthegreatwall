@@ -54,35 +54,46 @@ _免费网络代理公益小组_
 加密方法：AES-256-CFB
 ~~~
 
+或使用Shadowsocks应用扫描下面二维码，快速添加代理帐号信息：
+
+![Shadowsocks二维码](./images/shadowsocks-1.png)
+
+
+【公共帐号2】
+~~~
+服务器: 104.236.191.62
+远程端口:8388
+本地端口：1080
+密码：acrossthegreatwall
+加密方法：AES-256-CFB
+~~~
+
+或使用Shadowsocks应用扫描下面二维码，快速添加代理帐号信息：
+
+![Shadowsocks二维码](./images/shadowsocks-2.png)
+
 客户端下载：
 + 下载地址1：[Shadowsocks官网][5]，包括Windows、Mac OS X、Linux、Android和iOS、OpenWRT客户端。
-+ 下载地址2：请参考教程[GitHub][6]。
++ 使用说明：可参考教程[GitHub][6]。
 
 安装完毕，将上述帐号信息填入即可！
 
 *提示：限于iOS的安全策略，iOS用户使用Shadowsocks时，需要时隔几分钟就切换到Shadowsocks一次，才能不断激活代理服务。*
 
-## 站外资源推荐(Update：2014.11.30)
+## 站外资源推荐(Update：2014.12.07)
 
 + [51FQ][51FQ]：提供免费VPN服务，最新帐号情况请访问该站点获取。
-
-~~~	
-服务器地址: 36.51fq.info
-VPN类型: PPTP
-用户名: free51fq
-密码: free51fq
-~~~
-
 + 微信号pennyjob：大家可以订阅该微信号，然后发送“翻墙”，就会收到SSH、VPN、Shadowsocks等代理帐号。
-
 + [玩转SSH][8]：免费提供美国SSH帐号、Shadowsocks帐号，并提供交流QQ群。
++ [shadowsocks免费帐号][9]：在这里你可以获得更多shadowsocks免费代理帐号。
 
 [51FQ]: http://51fq.info/?page_id=5
 [3]: https://sourceforge.net/projects/shadowsocksgui/
 [4]: https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-帮助
 [5]: http://shadowsocks.org/en/download/clients.html
-[6]: https://github.com/shadowsocks/shadowsocks-gui
+[6]: https://github.com/clowwindy/shadowsocks/wiki/Shadowsocks-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E
 [8]: http://playssh.com
+[9]: http://shadowsocks.cn/get.html
 
 ## 小组愿景
 
@@ -105,8 +116,7 @@ VPN类型: PPTP
 
 ------
 
-Follow us on [GitHub][7].
+Follow us on [GitHub][7]. Last Update time: 2014.12.07
 
 [1]: https://www.digitalocean.com/?refcode=14d8e6d96950  
 [7]: https://github.com/tuhaihe/acrossthegreatwall
-
