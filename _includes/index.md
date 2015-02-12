@@ -63,13 +63,11 @@ _免费网络代理公益小组_
 服务器: 104.236.191.62
 远程端口:8388
 本地端口：1080
-密码：acrossthegreatwall
+密码：across
 加密方法：AES-256-CFB
 ~~~
 
-或使用Shadowsocks应用扫描下面二维码，快速添加代理帐号信息：
-
-![Shadowsocks](./images/S2.png)
+【update】2015.02.12更新密码
 
 客户端下载：
 + 下载地址1：[Shadowsocks官网][5]，包括Windows、Mac OS X、Linux、Android和iOS、OpenWRT客户端。
